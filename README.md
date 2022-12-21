@@ -1,2 +1,2 @@
 # JumpStart
-Formerly GD ModManager--A Mod Manager and Installer for Geometry Dash
+This Repository has been Archived in favour of https://github.com/GD-JumpStart/Application
